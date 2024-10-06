@@ -1,0 +1,14 @@
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/bin/Debug/net8.0/lab9
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/bin/Debug/net8.0/lab9.deps.json
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/bin/Debug/net8.0/lab9.runtimeconfig.json
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/bin/Debug/net8.0/lab9.dll
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/bin/Debug/net8.0/lab9.pdb
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.dll
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/refint/lab9.dll
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.pdb
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/lab9.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/dotnet/lab9/lab9/obj/Debug/net8.0/ref/lab9.dll

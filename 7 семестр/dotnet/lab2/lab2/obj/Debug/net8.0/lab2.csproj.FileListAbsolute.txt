@@ -1,0 +1,14 @@
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/bin/Debug/net8.0/lab2
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/bin/Debug/net8.0/lab2.deps.json
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/bin/Debug/net8.0/lab2.runtimeconfig.json
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/bin/Debug/net8.0/lab2.dll
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/bin/Debug/net8.0/lab2.pdb
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.dll
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/refint/lab2.dll
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.pdb
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/lab2.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/dotnet/lab2/lab2/obj/Debug/net8.0/ref/lab2.dll

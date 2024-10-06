@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="-_We9TZJTbXj_1yuy8kB">
+    <mxGraphModel dx="1242" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-1" target="Oh66Ll_8DmrWneDYSwRV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-1" value="начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-2" target="Oh66Ll_8DmrWneDYSwRV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-2" value="Ввод пути&amp;nbsp;&lt;div&gt;к файлу&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-3" target="Oh66Ll_8DmrWneDYSwRV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-21" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oh66Ll_8DmrWneDYSwRV-12">
+          <mxGeometry x="-0.5312" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-3" target="Oh66Ll_8DmrWneDYSwRV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-22" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oh66Ll_8DmrWneDYSwRV-13">
+          <mxGeometry x="-0.4687" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-3" value="Проверка существования файла" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="240" width="104" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-4" target="Oh66Ll_8DmrWneDYSwRV-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="534" y="740" />
+              <mxPoint x="414" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-4" value="Файл не найден" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-5" target="Oh66Ll_8DmrWneDYSwRV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-5" value="чтение строк файла" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-6" target="Oh66Ll_8DmrWneDYSwRV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-6" value="Подсчитываем количество символов в строке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-7" target="Oh66Ll_8DmrWneDYSwRV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-7" value="Выводим&amp;nbsp;&lt;div&gt;результат&amp;nbsp;&lt;/div&gt;&lt;div&gt;на экран&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-9" target="Oh66Ll_8DmrWneDYSwRV-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="670" />
+              <mxPoint x="440" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-23" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oh66Ll_8DmrWneDYSwRV-17">
+          <mxGeometry x="-0.7842" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oh66Ll_8DmrWneDYSwRV-9" target="Oh66Ll_8DmrWneDYSwRV-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="670" />
+              <mxPoint x="220" y="740" />
+              <mxPoint x="414" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-24" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oh66Ll_8DmrWneDYSwRV-19">
+          <mxGeometry x="-0.6139" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-9" value="все строки&lt;div&gt;обработаны&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="620" width="104" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Oh66Ll_8DmrWneDYSwRV-18" value="конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

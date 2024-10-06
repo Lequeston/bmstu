@@ -1,0 +1,14 @@
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/bin/Debug/net8.0/lab6
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/bin/Debug/net8.0/lab6.deps.json
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/bin/Debug/net8.0/lab6.runtimeconfig.json
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/bin/Debug/net8.0/lab6.dll
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/bin/Debug/net8.0/lab6.pdb
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.dll
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/refint/lab6.dll
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.pdb
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/lab6.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/dotnet/lab6/lab6/obj/Debug/net8.0/ref/lab6.dll

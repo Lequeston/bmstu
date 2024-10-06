@@ -1,0 +1,14 @@
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/bin/Debug/net8.0/lab8
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/bin/Debug/net8.0/lab8.deps.json
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/bin/Debug/net8.0/lab8.runtimeconfig.json
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/bin/Debug/net8.0/lab8.dll
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/bin/Debug/net8.0/lab8.pdb
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.dll
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/refint/lab8.dll
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.pdb
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/lab8.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/dotnet/lab8/lab8/obj/Debug/net8.0/ref/lab8.dll

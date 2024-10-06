@@ -1,0 +1,14 @@
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/bin/Debug/net8.0/dz1
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/bin/Debug/net8.0/dz1.deps.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/bin/Debug/net8.0/dz1.runtimeconfig.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/bin/Debug/net8.0/dz1.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/bin/Debug/net8.0/dz1.pdb
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/refint/dz1.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.pdb
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/dz1.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz1/dz1/obj/Debug/net8.0/ref/dz1.dll
