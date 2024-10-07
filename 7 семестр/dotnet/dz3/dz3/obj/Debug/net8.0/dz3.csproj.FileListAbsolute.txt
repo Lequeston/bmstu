@@ -1,0 +1,15 @@
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.sourcelink.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/bin/Debug/net8.0/dz3
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/bin/Debug/net8.0/dz3.deps.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/bin/Debug/net8.0/dz3.runtimeconfig.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/bin/Debug/net8.0/dz3.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/bin/Debug/net8.0/dz3.pdb
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/refint/dz3.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.pdb
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/dz3.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz3/dz3/obj/Debug/net8.0/ref/dz3.dll

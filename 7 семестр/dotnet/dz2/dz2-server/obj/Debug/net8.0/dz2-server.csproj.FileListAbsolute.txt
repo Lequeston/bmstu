@@ -1,0 +1,15 @@
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/bin/Debug/net8.0/dz2-server
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/bin/Debug/net8.0/dz2-server.deps.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/bin/Debug/net8.0/dz2-server.runtimeconfig.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/bin/Debug/net8.0/dz2-server.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/bin/Debug/net8.0/dz2-server.pdb
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.AssemblyInfoInputs.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.AssemblyInfo.cs
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.csproj.CoreCompileInputs.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.sourcelink.json
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/refint/dz2-server.dll
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.pdb
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/dz2-server.genruntimeconfig.cache
+/Users/lt/Documents/bmstu/7 семестр/dotnet/dz2/dz2-server/obj/Debug/net8.0/ref/dz2-server.dll
